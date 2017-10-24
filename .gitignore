@@ -57,5 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 # setting for psql
-!settings.json
+settings.json
 
