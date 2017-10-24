@@ -1,0 +1,22 @@
+{
+  "name": "dbtojs",
+  "version": "1.0.0",
+  "description": "In this activity I will connect to a PostgreSQL database from JavaScript directly using the native pg driver.",
+  "main": "test_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiTang26/DBtoJS.git"
+  },
+  "author": "Kai Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiTang26/DBtoJS/issues"
+  },
+  "homepage": "https://github.com/KaiTang26/DBtoJS#readme",
+  "dependencies": {
+    "pg": "^7.3.0"
+  }
+}
